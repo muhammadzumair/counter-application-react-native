@@ -1,0 +1,32 @@
+{
+  "name": "instagramfollowers1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.android.js",
+  "dependencies": {
+    "babel-jest": "^20.0.3",
+    "babel-preset-react-native": "^1.9.2",
+    "jest": "^20.0.3",
+    "react": "^16.0.0-alpha.6",
+    "react-native": "^0.44.0",
+    "react-native-animatable": "^1.2.0",
+    "react-native-device-info": "^0.10.2",
+    "react-native-elements": "^0.12.2",
+    "react-native-material-dialog": "^0.3.3",
+    "react-native-md5": "^1.0.0",
+    "react-native-vector-icons": "^4.1.1",
+    "react-navigation": "^1.0.0-beta.10",
+    "react-redux": "^5.0.5",
+    "react-test-renderer": "^16.0.0-alpha.6",
+    "redux": "^3.6.0",
+    "redux-thunk": "^2.2.0",
+    "royal-http": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
